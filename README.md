@@ -18,4 +18,4 @@ To download MyNote on Windows, go to releases, then click on the latest version,
 
 To download MyNote on Linux, go to releases, then click on the latest version, download the (.deb) file, and run it.
 
-**Developer: Vicente Cisotto Bajay 🧑‍💻***
+**Developer: Vicente Cisotto Bajay 🧑‍💻**
